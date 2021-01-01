@@ -10,6 +10,8 @@ This project is sample example of how we can run a python project on docker.
  - sudo docker build -t hello_world . # this to build our docker image
  - sudo docker run -p 5000:5000 hello_world:latest # this to run the latest image and create our docker container
  
+ finally go : http://127.0.0.1:5000/ and see the result
+ 
 
  
  
